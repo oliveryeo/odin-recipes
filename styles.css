@@ -1,0 +1,19 @@
+* {
+    font-family: "Open Sans", "Montserrat", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+h2 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.recipe {
+    text-align: center;
+}
